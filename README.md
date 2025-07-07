@@ -11,7 +11,7 @@ Home of the OpenSSF SBOM Everywhere SIG. We're glad you're here!
 ### Meeting times
 
 *   Every other Tuesday @ 11:05am EST. The invite is available on the [OpenSSF Community Calendar](https://calendar.google.com/calendar/u/0/r?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
-*   [Meeting Minutes](https://docs.google.com/document/d/193ODRga1F49WKPYYR79SNi9b27mChBqpOf5iiWJcMso/edit#heading=h.xqitfd6hs1gc) can be found in this Google Document. Feel free to add agenda items, please put your name next to items you add.
+*   [Meeting Minutes](https://docs.google.com/document/d/1wz1mzTkRUPmGtaXAe05hL9agXW5uZ07mdhTfCR1RWQo/edit?tab=t.0) can be found in this Google Document. Feel free to add agenda items, please put your name next to items you add.
 
 ## Current Projects
 
